@@ -1,0 +1,15 @@
+openai==0.28.0
+pandas
+numpy
+streamlit
+python-dotenv 
+docx2txt
+google.generativeai
+PyPDF2
+nltk==3.7
+requests==2.31.0
+spacy
+matplotlib
+seaborn
+scikit-learn
+plotly
