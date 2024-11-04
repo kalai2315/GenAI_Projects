@@ -6,8 +6,8 @@ python-dotenv
 docx2txt
 google.generativeai
 PyPDF2
-nltk==3.7
-requests==2.31.0
+nltk  
+requests
 spacy
 matplotlib
 seaborn
