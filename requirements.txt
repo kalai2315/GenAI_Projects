@@ -13,3 +13,12 @@ matplotlib
 seaborn
 scikit-learn
 plotly
+diffusers
+transformers
+torch
+torchvision
+accelerate
+streamlit
+safetensors
+Pillow
+
